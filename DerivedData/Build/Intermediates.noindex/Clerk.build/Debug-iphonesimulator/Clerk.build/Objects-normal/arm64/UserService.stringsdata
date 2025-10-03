@@ -1,0 +1,40 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/Models/User/UserService.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Unable to get the challenge for the passkey.",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unable to get the username for the passkey.",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 105
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unable to get the user ID for the passkey.",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "Invalid credential type.",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 123
+        }
+      }
+    ]
+  },
+  "version": 1
+}

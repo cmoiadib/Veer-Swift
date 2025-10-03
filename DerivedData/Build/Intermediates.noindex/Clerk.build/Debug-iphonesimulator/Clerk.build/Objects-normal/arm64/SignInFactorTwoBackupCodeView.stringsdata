@@ -1,0 +1,48 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/Auth/SignIn/SignInFactorTwoBackupCodeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Enter a backup code",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your backup code is the one you got when setting up two-step authentication.",
+        "location": {
+          "startingColumn": 56,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Backup code",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Continue",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "Use another method",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 86
+        }
+      }
+    ]
+  },
+  "version": 1
+}

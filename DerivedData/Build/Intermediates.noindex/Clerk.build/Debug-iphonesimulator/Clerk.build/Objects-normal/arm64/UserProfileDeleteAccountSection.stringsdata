@@ -1,0 +1,24 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileDeleteAccountSection.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Delete account",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "DELETE ACCOUNT",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 24
+        }
+      }
+    ]
+  },
+  "version": 1
+}

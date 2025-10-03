@@ -1,0 +1,56 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/Auth/SignUp/SignUpCompleteProfileView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Profile Details",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "Complete your profile",
+        "location": {
+          "startingColumn": 56,
+          "startingLine": 114
+        }
+      },
+      {
+        "comment": "",
+        "key": "First name",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 121
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last name",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 130
+        }
+      },
+      {
+        "comment": "",
+        "key": "Continue",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 147
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign up",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 171
+        }
+      }
+    ]
+  },
+  "version": 1
+}

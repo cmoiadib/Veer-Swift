@@ -1,0 +1,32 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/Auth/SignIn/SignInGetHelpView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Get help",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "If you have trouble signing into your account, email us and we will work with you to restore access as soon as possible.",
+        "location": {
+          "startingColumn": 56,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email support",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 30
+        }
+      }
+    ]
+  },
+  "version": 1
+}

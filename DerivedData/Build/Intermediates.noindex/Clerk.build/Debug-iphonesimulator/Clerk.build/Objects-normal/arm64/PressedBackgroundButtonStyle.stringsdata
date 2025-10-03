@@ -1,0 +1,16 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Theme/Buttons/PressedBackgroundButtonStyle.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Continue",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 28
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,64 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Update profile",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "Profile",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 149
+        }
+      },
+      {
+        "comment": "",
+        "key": "Security",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 153
+        }
+      },
+      {
+        "comment": "",
+        "key": "Switch account",
+        "location": {
+          "startingColumn": 76,
+          "startingLine": 167
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add account",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 172
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign out",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 177
+        }
+      },
+      {
+        "comment": "",
+        "key": "Account",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 199
+        }
+      }
+    ]
+  },
+  "version": 1
+}

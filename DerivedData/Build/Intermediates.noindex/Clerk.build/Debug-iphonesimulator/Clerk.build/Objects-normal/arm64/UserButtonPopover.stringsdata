@@ -1,0 +1,40 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserButton/UserButtonPopover.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Account",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Manage account",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Switch account",
+        "location": {
+          "startingColumn": 75,
+          "startingLine": 74
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign out",
+        "location": {
+          "startingColumn": 73,
+          "startingLine": 89
+        }
+      }
+    ]
+  },
+  "version": 1
+}

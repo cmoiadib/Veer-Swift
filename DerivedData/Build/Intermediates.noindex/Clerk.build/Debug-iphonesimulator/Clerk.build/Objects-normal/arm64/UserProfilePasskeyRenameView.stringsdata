@@ -1,0 +1,48 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfilePasskeyRenameView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "You can change the passkey name to make it easier to find.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Name of passkey",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rename passkey",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 75
+        }
+      }
+    ]
+  },
+  "version": 1
+}

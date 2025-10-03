@@ -1,0 +1,48 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileAddMfaView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Choose how you'd like to receive your two-step verification code.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "SMS code",
+        "location": {
+          "startingColumn": 82,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "Authenticator application",
+        "location": {
+          "startingColumn": 80,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add two-step verification",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 116
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,80 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/Auth/SignIn/SignInFactorAlternativeMethodsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Send SMS code to %@",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email code to %@",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign in with your passkey",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign in with your password",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Use your authenticator app",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Use a backup code",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "Use another method",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "Facing issues? You can use any of these methods to sign in.",
+        "location": {
+          "startingColumn": 56,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "or",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 103
+        }
+      }
+    ]
+  },
+  "version": 1
+}

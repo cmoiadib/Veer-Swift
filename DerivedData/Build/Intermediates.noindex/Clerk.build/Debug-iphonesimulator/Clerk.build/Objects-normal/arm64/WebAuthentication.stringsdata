@@ -1,0 +1,16 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/Utils/WebAuthentication.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Missing callback URL",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 32
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,48 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Common/ClerkPhoneNumberField.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Default",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 120
+        }
+      },
+      {
+        "comment": "",
+        "key": "International",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 130
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 183
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter your phone number",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 239
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter your phone number",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 239
+        }
+      }
+    ]
+  },
+  "version": 1
+}

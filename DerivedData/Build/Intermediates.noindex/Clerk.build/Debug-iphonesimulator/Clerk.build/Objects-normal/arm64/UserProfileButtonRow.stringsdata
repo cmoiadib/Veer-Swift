@@ -1,0 +1,16 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileButtonRow.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Add email address",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 58
+        }
+      }
+    ]
+  },
+  "version": 1
+}

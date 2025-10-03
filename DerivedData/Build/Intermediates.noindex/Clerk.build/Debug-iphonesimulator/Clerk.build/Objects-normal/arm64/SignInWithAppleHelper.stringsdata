@@ -1,0 +1,16 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/Helpers/SignInWithAppleHelper.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Unable to get your Apple ID credential.",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 106
+        }
+      }
+    ]
+  },
+  "version": 1
+}

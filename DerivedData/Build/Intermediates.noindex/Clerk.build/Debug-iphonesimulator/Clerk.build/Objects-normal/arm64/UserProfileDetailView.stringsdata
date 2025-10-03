@@ -1,0 +1,64 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileDetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Add email address",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "EMAIL ADDRESSES",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add phone number",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 95
+        }
+      },
+      {
+        "comment": "",
+        "key": "PHONE NUMBERS",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "Connect account",
+        "location": {
+          "startingColumn": 72,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "CONNECTED ACCOUNTS",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 120
+        }
+      },
+      {
+        "comment": "",
+        "key": "Profile",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 136
+        }
+      }
+    ]
+  },
+  "version": 1
+}

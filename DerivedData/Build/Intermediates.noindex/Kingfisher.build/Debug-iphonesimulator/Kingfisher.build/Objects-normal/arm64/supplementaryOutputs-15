@@ -1,0 +1,37 @@
+{
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Kingfisher/Sources/Utility/Runtime.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Runtime.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Runtime.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Runtime.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Runtime.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Runtime.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Kingfisher/Sources/Utility/SizeExtensions.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SizeExtensions.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SizeExtensions.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SizeExtensions.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SizeExtensions.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/SizeExtensions.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Kingfisher/Sources/Utility/String+SHA256.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/String+SHA256.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/String+SHA256.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/String+SHA256.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/String+SHA256.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/String+SHA256.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Kingfisher/Sources/Views/AnimatedImageView.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/AnimatedImageView.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/AnimatedImageView.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/AnimatedImageView.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/AnimatedImageView.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/AnimatedImageView.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Kingfisher/Sources/Views/Indicator.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Indicator.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Indicator.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Indicator.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Indicator.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Kingfisher.build/Debug-iphonesimulator/Kingfisher.build/Objects-normal/arm64/Indicator.swiftdeps"
+  }
+}

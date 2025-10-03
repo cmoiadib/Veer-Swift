@@ -1,0 +1,16 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/Helpers/AppAttestHelper.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Client ID is unavailble.",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 119
+        }
+      }
+    ]
+  },
+  "version": 1
+}

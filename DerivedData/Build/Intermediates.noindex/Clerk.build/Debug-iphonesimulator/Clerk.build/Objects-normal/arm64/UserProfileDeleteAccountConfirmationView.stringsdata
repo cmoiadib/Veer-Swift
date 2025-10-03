@@ -1,0 +1,56 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileDeleteAccountConfirmationView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "DELETE",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Are you sure you want to delete your account? This action is permanent and irreversible.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Type \"DELETE\" to continue",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete account",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete account",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 82
+        }
+      }
+    ]
+  },
+  "version": 1
+}

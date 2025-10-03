@@ -1,0 +1,59 @@
+{
+  "" : {
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/Get-primary.dia",
+    "emit-module-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/Get-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/Get-primary-emit-module.dia",
+    "pch" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/Get-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/Get-primary.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Get/Sources/Get/APIClient.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/APIClient.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/APIClient.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/APIClient.dia",
+    "index-unit-output-path" : "/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/APIClient.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/APIClient.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/APIClient.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/APIClient.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/APIClient~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Get/Sources/Get/APIClientDelegate.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/APIClientDelegate.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/APIClientDelegate.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/APIClientDelegate.dia",
+    "index-unit-output-path" : "/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/APIClientDelegate.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/APIClientDelegate.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/APIClientDelegate.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/APIClientDelegate.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/APIClientDelegate~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Get/Sources/Get/DataLoader.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/DataLoader.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/DataLoader.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/DataLoader.dia",
+    "index-unit-output-path" : "/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/DataLoader.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/DataLoader.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/DataLoader.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/DataLoader.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/DataLoader~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Get/Sources/Get/Request.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/Request.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/Request.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/Request.dia",
+    "index-unit-output-path" : "/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/Request.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/Request.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/Request.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/Request.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/Request~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Get/Sources/Get/Response.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/Response.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/Response.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/Response.dia",
+    "index-unit-output-path" : "/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/Response.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/Response.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/Response.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/Response.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Get.build/Debug-iphonesimulator/Get.build/Objects-normal/arm64/Response~partial.swiftmodule"
+  }
+}

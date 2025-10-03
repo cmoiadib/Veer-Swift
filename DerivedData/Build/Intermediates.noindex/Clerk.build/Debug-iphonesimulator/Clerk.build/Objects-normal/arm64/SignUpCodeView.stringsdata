@@ -1,0 +1,80 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/Auth/SignUp/SignUpCodeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Check your email",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Check your phone",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "Resend (%lld)",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "Resend",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verifying...",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 112
+        }
+      },
+      {
+        "comment": "",
+        "key": "Success",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 119
+        }
+      },
+      {
+        "comment": "",
+        "key": "Didn't recieve a code? ",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 135
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign up",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 169
+        }
+      },
+      {
+        "comment": "",
+        "key": "Continue",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 180
+        }
+      }
+    ]
+  },
+  "version": 1
+}

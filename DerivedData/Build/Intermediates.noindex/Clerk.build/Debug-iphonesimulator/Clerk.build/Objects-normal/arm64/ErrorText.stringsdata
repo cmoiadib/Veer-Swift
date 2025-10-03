@@ -1,0 +1,16 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Common/ErrorText.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Password is incorrect. Try again, or use another method.",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 33
+        }
+      }
+    ]
+  },
+  "version": 1
+}

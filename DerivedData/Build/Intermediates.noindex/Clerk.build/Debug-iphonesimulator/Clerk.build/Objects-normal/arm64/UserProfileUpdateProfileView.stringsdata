@@ -1,0 +1,80 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileUpdateProfileView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Username",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "First name",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last name",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 90
+        }
+      },
+      {
+        "comment": "",
+        "key": "Update profile",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 97
+        }
+      },
+      {
+        "comment": "",
+        "key": "There was an error loading the image from the photos library.",
+        "location": {
+          "startingColumn": 61,
+          "startingLine": 122
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose from photo library",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 185
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove photo",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 201
+        }
+      }
+    ]
+  },
+  "version": 1
+}

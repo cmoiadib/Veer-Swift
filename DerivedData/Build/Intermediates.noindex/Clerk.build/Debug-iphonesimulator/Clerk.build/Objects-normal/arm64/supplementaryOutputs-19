@@ -1,0 +1,128 @@
+{
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileButtonRow.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileButtonRow.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileButtonRow.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileButtonRow.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileButtonRow.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileButtonRow.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileChangePasswordView.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileChangePasswordView.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileChangePasswordView.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileChangePasswordView.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileChangePasswordView.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileChangePasswordView.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileDeleteAccountConfirmationView.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDeleteAccountConfirmationView.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDeleteAccountConfirmationView.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDeleteAccountConfirmationView.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDeleteAccountConfirmationView.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDeleteAccountConfirmationView.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileDeleteAccountSection.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDeleteAccountSection.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDeleteAccountSection.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDeleteAccountSection.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDeleteAccountSection.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDeleteAccountSection.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileDetailView.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDetailView.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDetailView.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDetailView.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDetailView.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDetailView.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileDeviceRow.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDeviceRow.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDeviceRow.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDeviceRow.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDeviceRow.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDeviceRow.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileDevicesSection.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDevicesSection.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDevicesSection.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDevicesSection.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDevicesSection.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileDevicesSection.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileEmailRow.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileEmailRow.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileEmailRow.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileEmailRow.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileEmailRow.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileEmailRow.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileExternalAccountRow.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileExternalAccountRow.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileExternalAccountRow.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileExternalAccountRow.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileExternalAccountRow.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileExternalAccountRow.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileMfaAddSmsView.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileMfaAddSmsView.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileMfaAddSmsView.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileMfaAddSmsView.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileMfaAddSmsView.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileMfaAddSmsView.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileMfaAddTotpView.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileMfaAddTotpView.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileMfaAddTotpView.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileMfaAddTotpView.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileMfaAddTotpView.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileMfaAddTotpView.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileMfaRow.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileMfaRow.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileMfaRow.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileMfaRow.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileMfaRow.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileMfaRow.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileMfaSection.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileMfaSection.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileMfaSection.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileMfaSection.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileMfaSection.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfileMfaSection.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfilePasskeyRenameView.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePasskeyRenameView.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePasskeyRenameView.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePasskeyRenameView.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePasskeyRenameView.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePasskeyRenameView.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfilePasskeyRow.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePasskeyRow.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePasskeyRow.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePasskeyRow.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePasskeyRow.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePasskeyRow.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfilePasskeySection.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePasskeySection.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePasskeySection.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePasskeySection.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePasskeySection.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePasskeySection.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfilePasswordSection.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePasswordSection.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePasswordSection.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePasswordSection.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePasswordSection.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePasswordSection.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfilePhoneRow.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePhoneRow.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePhoneRow.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePhoneRow.dia",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePhoneRow.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Clerk.build/Debug-iphonesimulator/Clerk.build/Objects-normal/arm64/UserProfilePhoneRow.swiftdeps"
+  }
+}

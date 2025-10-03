@@ -1,0 +1,24 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Common/OverlayProgressView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Button",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "Button",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 59
+        }
+      }
+    ]
+  },
+  "version": 1
+}

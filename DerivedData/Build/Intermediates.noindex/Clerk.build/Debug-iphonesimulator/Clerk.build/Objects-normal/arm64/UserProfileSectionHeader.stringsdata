@@ -1,0 +1,16 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileSectionHeader.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "EMAIL ADDRESSES",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 35
+        }
+      }
+    ]
+  },
+  "version": 1
+}

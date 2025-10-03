@@ -1,0 +1,40 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/Models/SignIn/SignInService.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Redirect URL is missing or invalid. Unable to start external authentication flow.",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "Redirect URL is missing or invalid. Unable to start external authentication flow.",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 129
+        }
+      },
+      {
+        "comment": "",
+        "key": "Invalid credential type.",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 174
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unable to get the challenge for the passkey.",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 146
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,40 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/Veer/Views/Main/HomeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Home",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "Welcome to Veer",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 10
+        }
+      },
+      {
+        "comment": "",
+        "key": "Discover amazing features and connect with others",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recent Activity",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 56
+        }
+      }
+    ]
+  },
+  "version": 1
+}

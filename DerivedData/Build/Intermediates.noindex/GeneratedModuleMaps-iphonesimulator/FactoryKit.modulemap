@@ -1,0 +1,4 @@
+module FactoryKit {
+header "FactoryKit-Swift.h"
+export *
+}

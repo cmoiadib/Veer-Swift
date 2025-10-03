@@ -1,0 +1,48 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/Veer/Views/Main/CameraView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "PHOTO",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "VIDEO",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "PORTRAIT",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "Retake",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 210
+        }
+      },
+      {
+        "comment": "",
+        "key": "Use Photo",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 218
+        }
+      }
+    ]
+  },
+  "version": 1
+}

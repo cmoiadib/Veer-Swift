@@ -1,0 +1,139 @@
+{
+  "" : {
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/FactoryKit-primary.dia",
+    "emit-module-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/FactoryKit-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/FactoryKit-primary-emit-module.dia",
+    "pch" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/FactoryKit-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/FactoryKit-primary.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/resource_bundle_accessor.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/resource_bundle_accessor.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/resource_bundle_accessor.dia",
+    "index-unit-output-path" : "/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/resource_bundle_accessor.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/resource_bundle_accessor.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/resource_bundle_accessor~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Factory/Sources/FactoryKit/FactoryKit/Containers.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Containers.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Containers.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Containers.dia",
+    "index-unit-output-path" : "/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Containers.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Containers.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Containers.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Containers.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Containers~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Factory/Sources/FactoryKit/FactoryKit/Contexts.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Contexts.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Contexts.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Contexts.dia",
+    "index-unit-output-path" : "/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Contexts.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Contexts.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Contexts.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Contexts.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Contexts~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Factory/Sources/FactoryKit/FactoryKit/Factory.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Factory.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Factory.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Factory.dia",
+    "index-unit-output-path" : "/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Factory.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Factory.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Factory.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Factory.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Factory~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Factory/Sources/FactoryKit/FactoryKit/Globals.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Globals.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Globals.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Globals.dia",
+    "index-unit-output-path" : "/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Globals.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Globals.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Globals.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Globals.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Globals~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Factory/Sources/FactoryKit/FactoryKit/Injections.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Injections.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Injections.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Injections.dia",
+    "index-unit-output-path" : "/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Injections.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Injections.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Injections.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Injections.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Injections~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Factory/Sources/FactoryKit/FactoryKit/Key.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Key.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Key.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Key.dia",
+    "index-unit-output-path" : "/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Key.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Key.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Key.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Key.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Key~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Factory/Sources/FactoryKit/FactoryKit/Locking.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Locking.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Locking.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Locking.dia",
+    "index-unit-output-path" : "/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Locking.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Locking.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Locking.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Locking.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Locking~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Factory/Sources/FactoryKit/FactoryKit/Modifiers.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Modifiers.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Modifiers.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Modifiers.dia",
+    "index-unit-output-path" : "/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Modifiers.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Modifiers.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Modifiers.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Modifiers.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Modifiers~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Factory/Sources/FactoryKit/FactoryKit/Registrations.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Registrations.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Registrations.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Registrations.dia",
+    "index-unit-output-path" : "/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Registrations.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Registrations.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Registrations.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Registrations.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Registrations~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Factory/Sources/FactoryKit/FactoryKit/Resolutions.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Resolutions.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Resolutions.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Resolutions.dia",
+    "index-unit-output-path" : "/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Resolutions.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Resolutions.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Resolutions.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Resolutions.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Resolutions~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Factory/Sources/FactoryKit/FactoryKit/Resolver.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Resolver.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Resolver.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Resolver.dia",
+    "index-unit-output-path" : "/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Resolver.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Resolver.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Resolver.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Resolver.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Resolver~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/Factory/Sources/FactoryKit/FactoryKit/Scopes.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Scopes.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Scopes.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Scopes.dia",
+    "index-unit-output-path" : "/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Scopes.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Scopes.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Scopes.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Scopes.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Factory.build/Debug-iphonesimulator/FactoryKit.build/Objects-normal/arm64/Scopes~partial.swiftmodule"
+  }
+}

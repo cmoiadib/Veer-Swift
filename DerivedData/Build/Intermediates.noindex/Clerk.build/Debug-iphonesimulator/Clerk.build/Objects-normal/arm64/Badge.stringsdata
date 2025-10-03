@@ -1,0 +1,16 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Common/Badge.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Badge Label",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 111
+        }
+      }
+    ]
+  },
+  "version": 1
+}

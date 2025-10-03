@@ -1,0 +1,16 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/Models/ClerkClientError.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "An unknown error occurred.",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 31
+        }
+      }
+    ]
+  },
+  "version": 1
+}

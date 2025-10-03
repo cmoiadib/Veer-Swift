@@ -1,0 +1,16 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileDevicesSection.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "ACTIVE DEVICES",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 43
+        }
+      }
+    ]
+  },
+  "version": 1
+}

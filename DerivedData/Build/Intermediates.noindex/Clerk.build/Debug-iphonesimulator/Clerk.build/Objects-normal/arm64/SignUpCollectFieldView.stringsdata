@@ -1,0 +1,128 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/Auth/SignUp/SignUpCollectFieldView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Email address",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Phone number",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "Password",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Username",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter the email address you'd like to use.",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter the phone number you'd like to use.",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Create a unique password.",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose a username.",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter your email",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter your phone number",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose your password",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose your username",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "Continue",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 139
+        }
+      },
+      {
+        "comment": "",
+        "key": "Skip",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 157
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign up",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 176
+        }
+      }
+    ]
+  },
+  "version": 1
+}

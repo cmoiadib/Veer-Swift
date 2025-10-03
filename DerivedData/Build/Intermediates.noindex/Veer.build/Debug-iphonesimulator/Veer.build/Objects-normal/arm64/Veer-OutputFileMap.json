@@ -1,0 +1,109 @@
+{
+  "" : {
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/Veer-primary.dia",
+    "emit-module-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/Veer-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/Veer-primary-emit-module.dia",
+    "pch" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/Veer-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/Veer-primary.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/Veer/ClerkManager.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ClerkManager.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ClerkManager.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ClerkManager.dia",
+    "index-unit-output-path" : "/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ClerkManager.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ClerkManager.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ClerkManager.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ClerkManager.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ClerkManager~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/Veer/ContentView.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/Veer/MainView.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/MainView.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/MainView.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/MainView.dia",
+    "index-unit-output-path" : "/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/MainView.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/MainView.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/MainView.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/MainView.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/MainView~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/Veer/VeerApp.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/VeerApp.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/VeerApp.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/VeerApp.dia",
+    "index-unit-output-path" : "/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/VeerApp.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/VeerApp.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/VeerApp.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/VeerApp.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/VeerApp~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/Veer/Views/Authentication/WelcomeView.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/WelcomeView.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/WelcomeView.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/WelcomeView.dia",
+    "index-unit-output-path" : "/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/WelcomeView.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/WelcomeView.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/WelcomeView.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/WelcomeView.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/WelcomeView~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/Veer/Views/Main/CameraView.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/CameraView.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/CameraView.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/CameraView.dia",
+    "index-unit-output-path" : "/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/CameraView.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/CameraView.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/CameraView.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/CameraView.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/CameraView~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/Veer/Views/Main/HomeView.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/Veer/Views/Main/MainTabView.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/MainTabView.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/MainTabView.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/MainTabView.dia",
+    "index-unit-output-path" : "/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/MainTabView.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/MainTabView.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/MainTabView.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/MainTabView.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/MainTabView~partial.swiftmodule"
+  },
+  "/Users/parwezamini/Documents/Veer/Veer/Views/Main/ProfileView.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ProfileView.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ProfileView.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ProfileView.dia",
+    "index-unit-output-path" : "/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ProfileView.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ProfileView.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ProfileView.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ProfileView.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/Veer.build/Objects-normal/arm64/ProfileView~partial.swiftmodule"
+  }
+}

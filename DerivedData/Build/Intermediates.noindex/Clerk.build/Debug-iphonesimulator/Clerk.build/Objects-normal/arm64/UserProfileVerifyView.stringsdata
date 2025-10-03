@@ -1,0 +1,104 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserProfile/UserProfileVerifyView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Verify email address",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verify phone number",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verify authenticator app",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter the verification code sent to %@",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter the verification code sent to %@",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter the verification code from your authenticator application.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Resend (%lld)",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "Resend",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 118
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verifying...",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 159
+        }
+      },
+      {
+        "comment": "",
+        "key": "Success",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 166
+        }
+      },
+      {
+        "comment": "",
+        "key": "Didn't recieve a code? ",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 182
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 219
+        }
+      }
+    ]
+  },
+  "version": 1
+}

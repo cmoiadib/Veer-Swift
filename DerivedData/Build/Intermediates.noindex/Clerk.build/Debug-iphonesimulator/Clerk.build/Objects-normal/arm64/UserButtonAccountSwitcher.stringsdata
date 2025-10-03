@@ -1,0 +1,40 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Components/UserButton/UserButtonAccountSwitcher.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Add account",
+        "location": {
+          "startingColumn": 73,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign out of all accounts",
+        "location": {
+          "startingColumn": 77,
+          "startingLine": 122
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "Switch account",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 162
+        }
+      }
+    ]
+  },
+  "version": 1
+}

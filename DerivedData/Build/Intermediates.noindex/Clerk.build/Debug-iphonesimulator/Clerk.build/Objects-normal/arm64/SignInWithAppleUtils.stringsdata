@@ -1,0 +1,16 @@
+{
+  "source": "/Users/parwezamini/Documents/Veer/DerivedData/SourcePackages/checkouts/clerk-ios/Sources/Clerk/ClerkUI/Utils/SignInWithAppleUtils.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Unable to retrieve the apple identity token.",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 19
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -48,6 +48,48 @@
 			<key>uniqueIdentifier</key>
 			<string>1609298B-3CEC-4A80-B8B0-5CC65C473C22</string>
 		</dict>
+		<key>82B26A57-610D-4523-965D-820127AF40EE</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>82B26A57-610D-4523-965D-820127AF40EE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Veer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Veer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Veer for testing with scheme Veer</string>
+			<key>timeStartedRecording</key>
+			<real>781263508.89338398</real>
+			<key>timeStoppedRecording</key>
+			<real>781263512.93608904</real>
+			<key>title</key>
+			<string>Building project Veer for testing with scheme Veer</string>
+			<key>uniqueIdentifier</key>
+			<string>82B26A57-610D-4523-965D-820127AF40EE</string>
+		</dict>
 	</dict>
 </dict>
 </plist>

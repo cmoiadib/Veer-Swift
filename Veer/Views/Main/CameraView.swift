@@ -2,12 +2,26 @@ import SwiftUI
 import AVFoundation
 import Combine
 
+// MARK: - Glass Effect Extension
+extension View {
+    func glassEffect(in shape: AnyShape = AnyShape(Circle())) -> some View {
+        self
+            .background(.ultraThinMaterial, in: shape)
+            .overlay(
+                shape
+                    .stroke(.white.opacity(0.2), lineWidth: 1)
+            )
+            .shadow(color: .black.opacity(0.2), radius: 8, x: 0, y: 4)
+    }
+}
+
 struct CameraView: View {
     @StateObject private var cameraManager = CameraManager()
     @State private var showingImagePicker = false
     @State private var capturedImage: UIImage?
     @State private var flashMode: AVCaptureDevice.FlashMode = .off
     @State private var cameraPosition: AVCaptureDevice.Position = .back
+    @State private var showFlashMenu = false
     
     var body: some View {
         GeometryReader { geometry in
@@ -25,16 +39,53 @@ struct CameraView: View {
                     // Top Controls
                     HStack {
                         // Flash Control
-                        Button(action: toggleFlash) {
-                            Image(systemName: flashIconName)
-                                .font(.title2)
-                                .foregroundColor(.white)
-                                .frame(width: 44, height: 44)
-                                .background(.regularMaterial, in: Circle())
+                        ZStack {
+                            // Background button that's always visible for proper layout
+                            RoundedRectangle(cornerRadius: 22)
+                                .fill(.ultraThinMaterial)
                                 .overlay(
-                                    Circle()
+                                    RoundedRectangle(cornerRadius: 22)
                                         .stroke(.white.opacity(0.2), lineWidth: 1)
                                 )
+                                .shadow(color: .black.opacity(0.3), radius: 8, x: 0, y: 4)
+                                .frame(width: 44, height: 44)
+                            
+                            Menu {
+                                ForEach([
+                                    (AVCaptureDevice.FlashMode.off, "bolt.slash", "Off"),
+                                    (AVCaptureDevice.FlashMode.auto, "bolt.badge.a", "Auto"),
+                                    (AVCaptureDevice.FlashMode.on, "bolt", "On")
+                                ], id: \.0) { option in
+                                    Button(action: {
+                                        flashMode = option.0
+                                        cameraManager.setFlashMode(option.0)
+                                        
+                                        // Haptic feedback
+                                        let selectionFeedback = UISelectionFeedbackGenerator()
+                                        selectionFeedback.selectionChanged()
+                                    }) {
+                                        Label(option.2, systemImage: option.1)
+                                    }
+                                }
+                            } label: {
+                                Image(systemName: flashIconName)
+                                    .font(.title2)
+                                    .foregroundColor(.white)
+                                    .frame(width: 44, height: 44)
+                                    .opacity(showFlashMenu ? 0.3 : 1.0)
+                                    .animation(.easeInOut(duration: 0.15), value: showFlashMenu)
+                            }
+                            .menuOrder(.fixed)
+                            .menuActionDismissBehavior(.automatic)
+                            .simultaneousGesture(
+                                TapGesture()
+                                    .onEnded { _ in
+                                        showFlashMenu = true
+                                        DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
+                                            showFlashMenu = false
+                                        }
+                                    }
+                            )
                         }
                         
                         Spacer()
@@ -47,12 +98,8 @@ struct CameraView: View {
                                 .font(.title2)
                                 .foregroundColor(.white)
                                 .frame(width: 44, height: 44)
-                                .background(.regularMaterial, in: Circle())
-                                .overlay(
-                                    Circle()
-                                        .stroke(.white.opacity(0.2), lineWidth: 1)
-                                )
                         }
+                        .glassEffect()
                     }
                     .padding(.horizontal, 20)
                     .padding(.top, 10)
@@ -61,10 +108,6 @@ struct CameraView: View {
                     
                     // Bottom Controls
                     VStack(spacing: 30) {
-                        // Photo-only mode indicator
-                        Text("PHOTO")
-                            .font(.system(size: 16, weight: .medium))
-                            .foregroundColor(.yellow)
                         
                         HStack {
                             // Photo Library Thumbnail
@@ -81,18 +124,15 @@ struct CameraView: View {
                                         )
                                 } else {
                                     RoundedRectangle(cornerRadius: 12)
-                                        .fill(.regularMaterial)
+                                        .fill(.clear)
                                         .frame(width: 50, height: 50)
                                         .overlay {
                                             Image(systemName: "photo.on.rectangle")
                                                 .foregroundColor(.white)
                                         }
-                                        .overlay(
-                                            RoundedRectangle(cornerRadius: 12)
-                                                .stroke(.white.opacity(0.2), lineWidth: 1)
-                                        )
                                 }
                             }
+                            .glassEffect(in: .rect(cornerRadius: 12))
                             
                             Spacer()
                             
@@ -100,12 +140,8 @@ struct CameraView: View {
                             Button(action: capturePhoto) {
                                 ZStack {
                                     Circle()
-                                        .fill(.regularMaterial)
+                                        .fill(.clear)
                                         .frame(width: 80, height: 80)
-                                        .overlay(
-                                            Circle()
-                                                .stroke(.white.opacity(0.3), lineWidth: 2)
-                                        )
                                     
                                     Circle()
                                         .fill(.white)
@@ -116,21 +152,14 @@ struct CameraView: View {
                                         )
                                 }
                             }
+                            .glassEffect()
                             
                             Spacer()
                             
-                            // Timer Button
-                            Button(action: {}) {
-                                Image(systemName: "timer")
-                                    .font(.title2)
-                                    .foregroundColor(.white)
-                                    .frame(width: 50, height: 50)
-                                    .background(.regularMaterial, in: Circle())
-                                    .overlay(
-                                        Circle()
-                                            .stroke(.white.opacity(0.2), lineWidth: 1)
-                                    )
-                            }
+                            // Empty spacer to balance layout
+                            Rectangle()
+                                .fill(Color.clear)
+                                .frame(width: 50, height: 50)
                         }
                         .padding(.horizontal, 30)
                     }
@@ -195,6 +224,8 @@ struct CameraView: View {
     }
 }
 
+
+
 // MARK: - Camera Preview View
 struct CameraPreviewView: UIViewRepresentable {
     let cameraManager: CameraManager
@@ -228,7 +259,13 @@ struct CapturedImagePreview: View {
                         onDismiss()
                     }
                     .foregroundColor(.white)
-                    .padding()
+                    .padding(.horizontal, 20)
+                    .padding(.vertical, 12)
+                    .background(.regularMaterial, in: RoundedRectangle(cornerRadius: 20))
+                    .overlay(
+                        RoundedRectangle(cornerRadius: 20)
+                            .stroke(.white.opacity(0.2), lineWidth: 1)
+                    )
                     
                     Spacer()
                     
@@ -237,7 +274,13 @@ struct CapturedImagePreview: View {
                         onDismiss()
                     }
                     .foregroundColor(.yellow)
-                    .padding()
+                    .padding(.horizontal, 20)
+                    .padding(.vertical, 12)
+                    .background(.regularMaterial, in: RoundedRectangle(cornerRadius: 20))
+                    .overlay(
+                        RoundedRectangle(cornerRadius: 20)
+                            .stroke(.white.opacity(0.2), lineWidth: 1)
+                    )
                 }
                 
                 Spacer()
@@ -350,19 +393,23 @@ class CameraManager: NSObject, ObservableObject {
         photoCompletion = completion
         
         let settings = AVCapturePhotoSettings()
+        
+        // Set flash mode based on current flash setting
+        if let device = currentDevice, device.hasFlash {
+            settings.flashMode = device.position == .front ? .off : getCurrentFlashMode()
+        }
+        
         photoOutput.capturePhoto(with: settings, delegate: self)
     }
     
+    private var currentFlashMode: AVCaptureDevice.FlashMode = .off
+    
+    private func getCurrentFlashMode() -> AVCaptureDevice.FlashMode {
+        return currentFlashMode
+    }
+    
     func setFlashMode(_ mode: AVCaptureDevice.FlashMode) {
-        guard let device = currentDevice, device.hasFlash else { return }
-        
-        do {
-            try device.lockForConfiguration()
-            // Flash mode is set per photo capture, not on the device
-            device.unlockForConfiguration()
-        } catch {
-            print("Error setting flash mode: \(error)")
-        }
+        currentFlashMode = mode
     }
     
     func flipCamera() {

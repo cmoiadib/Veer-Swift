@@ -4,34 +4,10 @@
     "Localizable": [
       {
         "comment": "",
-        "key": "PHOTO",
-        "location": {
-          "startingColumn": 34,
-          "startingLine": 60
-        }
-      },
-      {
-        "comment": "",
-        "key": "VIDEO",
-        "location": {
-          "startingColumn": 34,
-          "startingLine": 64
-        }
-      },
-      {
-        "comment": "",
-        "key": "PORTRAIT",
-        "location": {
-          "startingColumn": 34,
-          "startingLine": 68
-        }
-      },
-      {
-        "comment": "",
         "key": "Retake",
         "location": {
           "startingColumn": 28,
-          "startingLine": 210
+          "startingLine": 223
         }
       },
       {
@@ -39,7 +15,7 @@
         "key": "Use Photo",
         "location": {
           "startingColumn": 28,
-          "startingLine": 218
+          "startingLine": 237
         }
       }
     ]

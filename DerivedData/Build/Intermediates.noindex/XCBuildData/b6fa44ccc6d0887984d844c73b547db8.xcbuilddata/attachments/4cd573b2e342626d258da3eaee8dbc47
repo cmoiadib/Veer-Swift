@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/VeerTests.build/Objects-normal/arm64/VeerTests-primary.dia",
+    "emit-module-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/VeerTests.build/Objects-normal/arm64/VeerTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/VeerTests.build/Objects-normal/arm64/VeerTests-primary-emit-module.dia",
+    "pch" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/VeerTests.build/Objects-normal/arm64/VeerTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/VeerTests.build/Objects-normal/arm64/VeerTests-primary.swiftdeps"
+  },
+  "/Users/parwezamini/Documents/Veer/VeerTests/VeerTests.swift" : {
+    "const-values" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/VeerTests.build/Objects-normal/arm64/VeerTests.swiftconstvalues",
+    "dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/VeerTests.build/Objects-normal/arm64/VeerTests.d",
+    "diagnostics" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/VeerTests.build/Objects-normal/arm64/VeerTests.dia",
+    "index-unit-output-path" : "/Veer.build/Debug-iphonesimulator/VeerTests.build/Objects-normal/arm64/VeerTests.o",
+    "llvm-bc" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/VeerTests.build/Objects-normal/arm64/VeerTests.bc",
+    "object" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/VeerTests.build/Objects-normal/arm64/VeerTests.o",
+    "swift-dependencies" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/VeerTests.build/Objects-normal/arm64/VeerTests.swiftdeps",
+    "swiftmodule" : "/Users/parwezamini/Documents/Veer/DerivedData/Build/Intermediates.noindex/Veer.build/Debug-iphonesimulator/VeerTests.build/Objects-normal/arm64/VeerTests~partial.swiftmodule"
+  }
+}

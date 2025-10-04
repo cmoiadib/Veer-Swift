@@ -1,20 +1,17 @@
 import SwiftUI
 
 struct ContentView: View {
-    var body: some View {
-        VStack(spacing: 20) {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+    @Environment(\.clerkManager) private var clerkManager
 
-            Button(action: {
-                print("Button clicked")
-            }) {
-                Text("Create an account")
+    var body: some View {
+        Group {
+            if clerkManager.isAuthenticated {
+                MainTabView()
+            } else {
+                WelcomeView()
             }
-            .buttonStyle(.glass) // or any style you like
         }
+        .animation(.easeInOut(duration: 0.3), value: clerkManager.isAuthenticated)
     }
 }
 

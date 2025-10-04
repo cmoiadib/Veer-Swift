@@ -10,65 +10,65 @@ class ClerkManager: ObservableObject {
     @Published var user: ClerkUser?
     @Published var isLoading = false
     @Published var errorMessage: String?
-    
+
     // Clerk configuration
     private let publishableKey: String
-    
+
     init(publishableKey: String) {
         self.publishableKey = publishableKey
         checkAuthenticationStatus()
     }
-    
+
     // MARK: - Authentication Methods
-    
+
     func signIn(email: String, password: String) async {
         isLoading = true
         errorMessage = nil
-        
+
         do {
             // Use real Clerk iOS SDK for authentication
             let signIn = try await SignIn.create(
                 strategy: .identifier(email, password: password)
             )
-            
+
             if signIn.status == .complete {
                 // Authentication successful - update our local state
                 await updateAuthenticationState()
             } else {
                 self.errorMessage = "Authentication failed. Please check your credentials."
             }
-            
+
         } catch {
             self.errorMessage = "Authentication failed: \(error.localizedDescription)"
         }
-        
+
         isLoading = false
     }
-    
+
     func signUp(email: String, password: String) async {
         isLoading = true
         errorMessage = nil
-        
+
         do {
             // Use real Clerk iOS SDK for sign up
             let signUp = try await SignUp.create(
                 strategy: .standard(emailAddress: email, password: password)
             )
-            
+
             if signUp.status == .complete {
                 // Sign up successful - update our local state
                 await updateAuthenticationState()
             } else {
                 self.errorMessage = "Sign up failed. Please try again."
             }
-            
+
         } catch {
             self.errorMessage = "Sign up failed: \(error.localizedDescription)"
         }
-        
+
         isLoading = false
     }
-    
+
     func signOut() {
         Task {
             do {
@@ -85,7 +85,7 @@ class ClerkManager: ObservableObject {
             }
         }
     }
-    
+
     private func updateAuthenticationState() async {
         // Update authentication state based on Clerk's current user
         if let clerkUser = Clerk.shared.user {
@@ -95,7 +95,7 @@ class ClerkManager: ObservableObject {
                 firstName: clerkUser.firstName,
                 lastName: clerkUser.lastName
             )
-            
+
             self.user = user
             self.isAuthenticated = true
         } else {
@@ -103,14 +103,14 @@ class ClerkManager: ObservableObject {
             self.user = nil
         }
     }
-    
+
     private func checkAuthenticationStatus() {
         // Check if user is already authenticated with Clerk
         Task {
             await updateAuthenticationState()
         }
     }
-    
+
     // Public method to refresh authentication state
     func refreshAuthenticationState() async {
         await updateAuthenticationState()
@@ -123,7 +123,7 @@ struct ClerkUser: Codable, Identifiable {
     let email: String
     let firstName: String?
     let lastName: String?
-    
+
     var fullName: String {
         let first = firstName ?? ""
         let last = lastName ?? ""

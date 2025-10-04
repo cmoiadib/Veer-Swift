@@ -21,7 +21,7 @@ struct CameraView: View {
     @State private var capturedImage: UIImage?
     @State private var flashMode: AVCaptureDevice.FlashMode = .off
     @State private var cameraPosition: AVCaptureDevice.Position = .back
-    @State private var showFlashMenu = false
+    @State private var isFlashMenuPresented = false
     
     var body: some View {
         GeometryReader { geometry in
@@ -39,54 +39,86 @@ struct CameraView: View {
                     // Top Controls
                     HStack {
                         // Flash Control
-                        ZStack {
-                            // Background button that's always visible for proper layout
-                            RoundedRectangle(cornerRadius: 22)
-                                .fill(.ultraThinMaterial)
-                                .overlay(
-                                    RoundedRectangle(cornerRadius: 22)
-                                        .stroke(.white.opacity(0.2), lineWidth: 1)
-                                )
-                                .shadow(color: .black.opacity(0.3), radius: 8, x: 0, y: 4)
-                                .frame(width: 44, height: 44)
-                            
-                            Menu {
-                                ForEach([
-                                    (AVCaptureDevice.FlashMode.off, "bolt.slash", "Off"),
-                                    (AVCaptureDevice.FlashMode.auto, "bolt.badge.a", "Auto"),
-                                    (AVCaptureDevice.FlashMode.on, "bolt", "On")
-                                ], id: \.0) { option in
-                                    Button(action: {
-                                        flashMode = option.0
-                                        cameraManager.setFlashMode(option.0)
-                                        
-                                        // Haptic feedback
-                                        let selectionFeedback = UISelectionFeedbackGenerator()
-                                        selectionFeedback.selectionChanged()
-                                    }) {
-                                        Label(option.2, systemImage: option.1)
-                                    }
-                                }
-                            } label: {
-                                Image(systemName: flashIconName)
-                                    .font(.title2)
-                                    .foregroundColor(.white)
-                                    .frame(width: 44, height: 44)
-                                    .opacity(showFlashMenu ? 0.3 : 1.0)
-                                    .animation(.easeInOut(duration: 0.15), value: showFlashMenu)
-                            }
-                            .menuOrder(.fixed)
-                            .menuActionDismissBehavior(.automatic)
-                            .simultaneousGesture(
-                                TapGesture()
-                                    .onEnded { _ in
-                                        showFlashMenu = true
-                                        DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
-                                            showFlashMenu = false
+                        Menu {
+                            Button(action: {
+                                flashMode = .auto
+                                cameraManager.setFlashMode(.auto)
+                                
+                                // Haptic feedback
+                                let selectionFeedback = UISelectionFeedbackGenerator()
+                                selectionFeedback.selectionChanged()
+                            }) {
+                                Label {
+                                    Text("Auto")
+                                } icon: {
+                                    HStack {
+                                        Image(systemName: "bolt.badge.a")
+                                        if flashMode == .auto {
+                                            Image(systemName: "checkmark")
                                         }
                                     }
-                            )
-                        }
+                                }
+                            }
+                            
+                            Button(action: {
+                                flashMode = .on
+                                cameraManager.setFlashMode(.on)
+                                
+                                // Haptic feedback
+                                let selectionFeedback = UISelectionFeedbackGenerator()
+                                selectionFeedback.selectionChanged()
+                            }) {
+                                Label {
+                                    Text("On")
+                                } icon: {
+                                    HStack {
+                                        Image(systemName: "bolt")
+                                        if flashMode == .on {
+                                            Image(systemName: "checkmark")
+                                        }
+                                    }
+                                }
+                            }
+                            
+                            Button(action: {
+                                flashMode = .off
+                                cameraManager.setFlashMode(.off)
+                                
+                                // Haptic feedback
+                                let selectionFeedback = UISelectionFeedbackGenerator()
+                                selectionFeedback.selectionChanged()
+                            }) {
+                                Label {
+                                    Text("Off")
+                                } icon: {
+                                    HStack {
+                                        Image(systemName: "bolt.slash")
+                                        if flashMode == .off {
+                                            Image(systemName: "checkmark")
+                                        }
+                                    }
+                                }
+                            }
+                        } label: {
+                             // Flash button with background and animation
+                             ZStack {
+                                 RoundedRectangle(cornerRadius: 22)
+                                     .fill(.ultraThinMaterial)
+                                     .overlay(
+                                         RoundedRectangle(cornerRadius: 22)
+                                             .stroke(.white.opacity(0.2), lineWidth: 1)
+                                     )
+                                     .shadow(color: .black.opacity(0.3), radius: 8, x: 0, y: 4)
+                                     .frame(width: 44, height: 44)
+                                 
+                                 Image(systemName: flashIconName)
+                                     .font(.title2)
+                                     .foregroundColor(.white)
+                                     .frame(width: 44, height: 44)
+                             }
+                         }
+                         .menuOrder(.fixed)
+                         .menuActionDismissBehavior(.automatic)
                         
                         Spacer()
                         

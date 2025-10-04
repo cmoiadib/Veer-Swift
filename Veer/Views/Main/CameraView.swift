@@ -108,7 +108,6 @@ struct CameraView: View {
                                          RoundedRectangle(cornerRadius: 22)
                                              .stroke(.white.opacity(0.2), lineWidth: 1)
                                      )
-                                     .shadow(color: .black.opacity(0.3), radius: 8, x: 0, y: 4)
                                      .frame(width: 44, height: 44)
                                  
                                  Image(systemName: flashIconName)

@@ -1,4 +1,5 @@
 import SwiftUI
+import Photos
 
 struct HomeView: View {
     @State private var showingSettings = false
@@ -57,12 +58,11 @@ struct HomeView: View {
                                 ScrollView(.horizontal, showsIndicators: false) {
                                     LazyHStack(spacing: 16) {
                                         ForEach(supabaseManager.outfits.prefix(10)) { outfit in
-                                            OutfitCard(outfit: outfit)
+                                            OutfitCard(outfit: outfit, refreshID: refreshID)
                                         }
                                     }
                                     .padding(.horizontal)
                                 }
-                                .id(refreshID)
                             }
                         }
 
@@ -212,6 +212,14 @@ struct HomeView: View {
                     loadData()
                 }
             }
+            .onChange(of: supabaseManager.outfits.count) { oldValue, newValue in
+                // Force refresh images when outfit count changes
+                refreshID = UUID()
+            }
+            .onReceive(NotificationCenter.default.publisher(for: NSNotification.Name("RefreshOutfits"))) { _ in
+                // Force refresh images when notification received
+                refreshID = UUID()
+            }
             .onChange(of: scenePhase) { oldPhase, newPhase in
                 // Refresh when app becomes active
                 if newPhase == .active {
@@ -246,13 +254,14 @@ struct HomeView: View {
 // MARK: - Outfit Card Component
 struct OutfitCard: View {
     let outfit: TryOnOutfit
+    let refreshID: UUID
     @State private var showingDetail = false
 
     var body: some View {
         Button {
             showingDetail = true
         } label: {
-            AsyncImage(url: URL(string: outfit.imageUrl)) { phase in
+            AsyncImage(url: URL(string: outfit.imageUrl + "?refresh=\(refreshID.uuidString)")) { phase in
                 switch phase {
                 case .empty:
                     ProgressView()
@@ -272,6 +281,7 @@ struct OutfitCard: View {
                     EmptyView()
                 }
             }
+            .id(refreshID)
             .overlay(alignment: .bottom) {
                 VStack(alignment: .leading, spacing: 4) {
                     Text(outfit.clothingType)
@@ -303,6 +313,10 @@ struct OutfitDetailView: View {
     @Environment(\.clerkManager) private var clerkManager
     @StateObject private var supabaseManager = SupabaseManager.shared
     @State private var showingDeleteConfirmation = false
+    @State private var isSavingToPhone = false
+    @State private var showingSaveSuccess = false
+    @State private var showingSaveError = false
+    @State private var saveErrorMessage = ""
 
     var body: some View {
         NavigationStack {
@@ -339,15 +353,36 @@ struct OutfitDetailView: View {
                         .background(.regularMaterial, in: RoundedRectangle(cornerRadius: 16))
                         .padding(.horizontal)
 
-                        // Delete Button
-                        Button(role: .destructive) {
-                            showingDeleteConfirmation = true
-                        } label: {
-                            Label("Delete Outfit", systemImage: "trash")
-                                .font(.headline)
+                        // Action Buttons
+                        VStack(spacing: 12) {
+                            // Save to Phone Button
+                            Button {
+                                saveToPhone()
+                            } label: {
+                                if isSavingToPhone {
+                                    ProgressView()
+                                        .frame(maxWidth: .infinity)
+                                } else {
+                                    Label("Save to Phone", systemImage: "square.and.arrow.down")
+                                        .font(.headline)
+                                        .frame(maxWidth: .infinity)
+                                }
+                            }
+                            .buttonStyle(.borderedProminent)
+                            .controlSize(.large)
+                            .disabled(isSavingToPhone)
+
+                            // Delete Button
+                            Button(role: .destructive) {
+                                showingDeleteConfirmation = true
+                            } label: {
+                                Label("Delete Outfit", systemImage: "trash")
+                                    .font(.headline)
+                                    .frame(maxWidth: .infinity)
+                            }
+                            .buttonStyle(.bordered)
+                            .controlSize(.large)
                         }
-                        .buttonStyle(.bordered)
-                        .controlSize(.large)
                         .padding(.horizontal)
                     }
                     .padding(.vertical)
@@ -374,6 +409,16 @@ struct OutfitDetailView: View {
             } message: {
                 Text("This action cannot be undone.")
             }
+            .alert("Saved!", isPresented: $showingSaveSuccess) {
+                Button("OK", role: .cancel) { }
+            } message: {
+                Text("Photo saved to your Photos library")
+            }
+            .alert("Error", isPresented: $showingSaveError) {
+                Button("OK", role: .cancel) { }
+            } message: {
+                Text(saveErrorMessage)
+            }
         }
     }
 
@@ -381,6 +426,40 @@ struct OutfitDetailView: View {
         let formatter = RelativeDateTimeFormatter()
         formatter.unitsStyle = .full
         return formatter.localizedString(for: date, relativeTo: Date())
+    }
+
+    private func saveToPhone() {
+        isSavingToPhone = true
+
+        Task {
+            do {
+                // Download image from URL
+                guard let url = URL(string: outfit.imageUrl) else {
+                    throw NSError(domain: "OutfitDetailView", code: 1, userInfo: [NSLocalizedDescriptionKey: "Invalid image URL"])
+                }
+
+                let (data, _) = try await URLSession.shared.data(from: url)
+                guard let image = UIImage(data: data) else {
+                    throw NSError(domain: "OutfitDetailView", code: 2, userInfo: [NSLocalizedDescriptionKey: "Failed to load image"])
+                }
+
+                // Save to Photos
+                try await PHPhotoLibrary.shared().performChanges {
+                    PHAssetChangeRequest.creationRequestForAsset(from: image)
+                }
+
+                await MainActor.run {
+                    isSavingToPhone = false
+                    showingSaveSuccess = true
+                }
+            } catch {
+                await MainActor.run {
+                    isSavingToPhone = false
+                    saveErrorMessage = error.localizedDescription
+                    showingSaveError = true
+                }
+            }
+        }
     }
 
     private func deleteOutfit() {

@@ -1,0 +1,37 @@
+═══════════════════════════════════════════════════════════
+   🚨 FIX "ROW-LEVEL SECURITY POLICY" ERROR 🚨
+═══════════════════════════════════════════════════════════
+
+EASIEST FIX (30 seconds):
+
+1. Go to: https://supabase.com/dashboard/project/pdhmakamlgsosiubivzk/storage/buckets
+
+2. Click on "user-photos" bucket
+
+3. Find "RLS enabled" toggle
+
+4. Turn it OFF
+
+DONE! ✅ Your app will now save photos.
+
+═══════════════════════════════════════════════════════════
+
+Alternative (More Secure - for production):
+
+1. Go to: https://supabase.com/dashboard/project/pdhmakamlgsosiubivzk/storage/policies
+
+2. Find "user-photos" bucket
+
+3. Click "New Policy"
+
+4. Choose "For full customization"
+
+5. Fill in:
+   Policy name: Allow uploads
+   Target roles: public
+   Policy definition: true
+   Operations: ✓ INSERT, ✓ SELECT
+
+6. Click "Create policy"
+
+═══════════════════════════════════════════════════════════

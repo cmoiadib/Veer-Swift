@@ -1,0 +1,19 @@
+═══════════════════════════════════════════════════════════
+   🚨 FIX "BUCKET NOT FOUND" ERROR - DO THIS NOW! 🚨
+═══════════════════════════════════════════════════════════
+
+1. Click this link:
+   https://supabase.com/dashboard/project/pdhmakamlgsosiubivzk/storage/buckets
+
+2. Click green "New bucket" button
+
+3. Fill in:
+   Name: user-photos
+   Public bucket: ✓ ON
+   File size: 50MB
+
+4. Click "Create bucket"
+
+DONE! ✅ Your app will now save photos.
+
+═══════════════════════════════════════════════════════════
